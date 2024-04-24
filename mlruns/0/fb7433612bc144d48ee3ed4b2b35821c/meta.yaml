@@ -1,0 +1,15 @@
+artifact_uri: file:///W:/mlflow-test/mlruns/0/fb7433612bc144d48ee3ed4b2b35821c/artifacts
+end_time: 1713950507446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb7433612bc144d48ee3ed4b2b35821c
+run_name: omniscient-shark-857
+run_uuid: fb7433612bc144d48ee3ed4b2b35821c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713950500858
+status: 3
+tags: []
+user_id: TBH_MSI_01
