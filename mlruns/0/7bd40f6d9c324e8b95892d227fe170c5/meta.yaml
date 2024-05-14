@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPsProject/MLFlow-DagsHub-Test/mlruns/0/7bd40f6d9c324e8b95892d227fe170c5/artifacts
+end_time: 1715682800939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bd40f6d9c324e8b95892d227fe170c5
+run_name: nebulous-goat-743
+run_uuid: 7bd40f6d9c324e8b95892d227fe170c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715682797041
+status: 3
+tags: []
+user_id: Rahul

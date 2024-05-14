@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOPsProject/MLFlow-DagsHub-Test/mlruns/0/bdf45aa9e38a4eb590a25b54e1e7fa31/artifacts
+end_time: 1715683274026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdf45aa9e38a4eb590a25b54e1e7fa31
+run_name: awesome-elk-888
+run_uuid: bdf45aa9e38a4eb590a25b54e1e7fa31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715683266977
+status: 3
+tags: []
+user_id: Rahul
