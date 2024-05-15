@@ -6,7 +6,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/omrahulpandey/MLflow-Operation-DagsHub.mlflow \
 MLFLOW_TRACKING_USERNAME=omrahulpandey \
-MLFLOW_TRACKING_PASSWORD=bd2c625b6e5ecda08a3c8121476affccf461f306 \
+MLFLOW_TRACKING_PASSWORD=********************** \
 python script.py
 
 
@@ -16,6 +16,6 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/omrahulpandey/MLflow-Operation-Da
 
 export MLFLOW_TRACKING_USERNAME=omrahulpandey
 
-export MLFLOW_TRACKING_PASSWORD=bd2c625b6e5ecda08a3c8121476affccf461f306
+export MLFLOW_TRACKING_PASSWORD=**********
 
 ```
